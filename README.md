@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DattJoshi
 - 👀 I’m interested in front end devlopment 
-- 🌱 I’m currently learning web designing 
+- 🌱 I’m currently learning angular 
 -
   📫 datthjoshi@gmail.com
 
